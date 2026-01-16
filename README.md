@@ -13,13 +13,6 @@ learn how to deploy a website using GitHub Pages.
 - HTML
 
 **How to Run Locally**
-1. Download or clone the repository:
-   git clone https://haroonmubashir1234/my-first-repo.git
+1. Download or clone the repository
 2. Open the project folder
 3. Open index.html in any web browser
-
-**Live Website**
-https://haroonmubashir1234.github.io/my-first-repo/
-
-**Author**
-Haroon Mubashir
